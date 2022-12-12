@@ -25,8 +25,8 @@
 
 # 海外信息
 [IRENA](https://www.irena.org/):新能源相关信息  
-[BloombergNEF](https://about.bnef.com/)：金融圈相对认可的数据
-[NREL](https://www.nrel.gov/pv/cell-efficiency.html)：美国国家可再生能源实验室（NREL）官网，主要看光伏效率比较图
+[BloombergNEF](https://about.bnef.com/)：金融圈相对认可的数据  
+[NREL](https://www.nrel.gov/pv/cell-efficiency.html)：美国国家可再生能源实验室（NREL）官网，主要看光伏效率比较图  
 
 # 其他
 [北极星电力网](https://www.bjx.com.cn/)：清洁能源综合信息  
