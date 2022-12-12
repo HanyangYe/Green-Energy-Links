@@ -14,7 +14,7 @@
 # 储能
 [InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏各环节产品现货价格及相关资讯，兼有储能、风电相关资讯  
 [北极星电力网-储能板块](https://chuneng.bjx.com.cn/)：储能相关新闻  
-[中关村储能产业技术联盟](http://www.cnesa.org/)  
+[中关村储能产业技术联盟](http://www.cnesa.org/)：储能相关新闻  
 
 # 氢能
 [北极星电力网-氢能板块](https://qn.bjx.com.cn/)：氢能相关新闻  
