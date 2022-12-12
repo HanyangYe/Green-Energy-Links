@@ -1,5 +1,5 @@
 # 光伏
-[InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏各环节产品现货价格及相关资讯，兼有储能、风电相关资讯  
+[InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏现货价格，兼有新能源相关资讯  
 [PVinsights](http://pvinsights.com/Member/Login.php)：光伏组件价格（世界范围）  
 [集邦咨询](https://www.trendforce.cn/)：新能源产业包括LED、照明市场、太阳能、电动车等，另有半导体产业链相关资讯  
 [Solarzoom](http://www.solarzoom.com/category/21/10000)：光伏相关新闻  
@@ -8,11 +8,11 @@
 
 
 # 风电
-[InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏各环节产品现货价格及相关资讯，兼有储能、风电相关资讯  
+[InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏现货价格，兼有新能源相关资讯  
 [北极星电力网-风电板块](https://fd.bjx.com.cn/)：风电新闻  
 
 # 储能
-[InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏各环节产品现货价格及相关资讯，兼有储能、风电相关资讯  
+[InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏现货价格，兼有新能源相关资讯  
 [北极星电力网-储能板块](https://chuneng.bjx.com.cn/)：储能相关新闻  
 [中关村储能产业技术联盟](http://www.cnesa.org/)：储能相关新闻  
 
