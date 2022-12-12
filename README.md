@@ -23,10 +23,18 @@
 [中国能源局新能源与可再生能源司](http://www.nea.gov.cn/sjzz/xny/index.htm)：国家能源局官网  
 [发改委](https://www.ndrc.gov.cn/?code=&state=123)：发改委官网  
 
+# 海外信息
+[IRENA](https://www.irena.org/):新能源相关信息  
+[BloombergNEF](https://about.bnef.com/)：金融圈相对认可的数据
+[NREL](https://www.nrel.gov/pv/cell-efficiency.html)：美国国家可再生能源实验室（NREL）官网，主要看光伏效率比较图
+
 # 其他
 [北极星电力网](https://www.bjx.com.cn/)：清洁能源综合信息  
 [上海有色金属网](https://www.smm.cn/)：新能源金属相关价格资讯  
 [汽车百人会](https://www.chinaev100.com/)：储能电池相关信息  
+[中电联](https://www.cec.org.cn/)：电力运营相关资讯  
+[采招网](https://www.bidcenter.com.cn/)：招标价格相关信息查询  
+
 
 # 联系
 叶涵洋 博士  
