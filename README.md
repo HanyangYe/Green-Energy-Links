@@ -16,3 +16,5 @@
 
 
 # 国内政策
+[中国能源局新能源与可再生能源司](http://www.nea.gov.cn/sjzz/xny/index.htm)  
+[中国光伏协会](http://www.chinapv.org.cn/index.html)  
