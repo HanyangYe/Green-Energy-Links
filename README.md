@@ -1,8 +1,8 @@
 # 光伏
 [InfoLink Consulting](https://www.infolink-group.com/spot-price/cn/)：光伏现货价格，兼有新能源相关资讯  
 [PVinsights](http://pvinsights.com/Member/Login.php)：光伏组件价格（世界范围）  
-[PV Magazine](https://www.pv-magazine.com/)：欧美光伏新闻 
-[索比咨询网](https://news.solarbe.com/)：光伏相关新闻  
+[PV Magazine](https://www.pv-magazine.com/)：欧美光伏新闻  
+[索比咨询网](https://news.solarbe.com/)：光伏相关新闻   
 [集邦咨询](https://www.trendforce.cn/)：新能源产业包括LED、照明市场、太阳能、电动车等，另有半导体产业链相关资讯  
 [Solarzoom](http://www.solarzoom.com/category/21/10000)：光伏相关新闻  
 [北极星电力网-光伏板块](https://guangfu.bjx.com.cn/)：光伏新闻  
